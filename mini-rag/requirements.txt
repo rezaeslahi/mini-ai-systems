@@ -1,0 +1,13 @@
+python-dotenv>=1.0
+
+langchain>=0.2
+langchain-community>=0.2
+langchain-openai>=0.1
+
+sentence-transformers>=3.0
+torch
+numby
+faiss-cpu
+pydantic==2.9.2
+
+pdfplumber
